@@ -1,5 +1,4 @@
 # swift-AlgorithmsIntroductiontoRecursion
-# swift-VowelReplacer
 
 <!-- PROJECT LOGO -->
 <br />
